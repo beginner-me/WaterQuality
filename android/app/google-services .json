@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489969303128",
+    "project_id": "purehydro-95b6e",
+    "storage_bucket": "purehydro-95b6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489969303128:android:6c147241ab1499d9fb542d",
+        "android_client_info": {
+          "package_name": "com.example.waterqualityfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489969303128-jf039mn4pd6qe90pg5396tu9ae3kcflr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSNEgNPdufR5cDMvP5CRPDIPyCLkXANOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489969303128-jf039mn4pd6qe90pg5396tu9ae3kcflr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
